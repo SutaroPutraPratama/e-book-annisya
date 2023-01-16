@@ -10,10 +10,18 @@
 </head>
 <body>
     <div class="title">
-    <h1>WIK-BOOK</h1>
+       <h1>WIK-BOOK</h1>
+       <p>book for online and free!!</p>
     </div>
     <div class="login">
-    <a href="" class="btn btn-dark login">login</a>
+       <a href="" class="btn btn-dark login">Login</a>
     </div>  
+    <div class="regis">
+       <a href="" class="btn btn-dark regis">Register</a>
+    </div>
+    <div class="home">
+        <a href="" class="btn btn-dark home">Home</a>
+    </div>
+    
 </body>
-</html>
+</html> 

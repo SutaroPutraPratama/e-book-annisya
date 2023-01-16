@@ -8,10 +8,31 @@ body{
 .login {
     position: absolute;
     margin-left: 700px !important;
-    margin-top: -10px !important;
+    margin-top: -20px !important;
     background-color: rgba(147, 90, 62, 0.871) !important;
 }
 
 .title h1 {
     color: rgba(147, 90, 62, 0.871) !important;
+}
+
+.regis {
+    position:absolute;
+    margin-left: 650px !important;
+    margin-top: -20px !important;
+    background-color: rgba(147, 90, 62, 0.871) !important;
+
+}
+
+.home {
+    position:absolute;
+    margin-left: 600px !important;
+    margin-top: -20px !important;
+    background-color: rgba(147, 90, 62, 0.871) !important;
+
+}
+
+.title p {
+    color: rgba(147, 90, 62, 0.871) !important;
+    font-size: medium;
 }
