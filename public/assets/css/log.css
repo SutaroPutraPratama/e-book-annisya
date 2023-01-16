@@ -1,0 +1,35 @@
+body{
+    background: rgba(147, 90, 62, 0.871) !important;
+    font-family: 'Muli', sans-serif;
+    
+  }
+  h1{
+    color: #fff;
+    padding-bottom: 2rem;
+    font-weight: bold;
+  }
+  a{
+    color: #333;
+  }
+  a:hover{
+    color: rgba(147, 90, 62, 0.871) !important;
+    text-decoration: none;
+  }
+  .form-control:focus {
+  
+      color: #000;
+      background-color: #fff;
+      border:2px solid rgba(147, 90, 62, 0.871);
+      outline: 0;
+      box-shadow: none;
+  
+  }
+  
+  .btn{
+    background: rgba(147, 90, 62, 0.871);
+    border: rgba(147, 90, 62, 0.871);
+  }
+  .btn:hover {
+    background: rgba(147, 90, 62, 0.871);
+    border: rgba(147, 90, 62, 0.871);
+  }
